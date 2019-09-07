@@ -1,0 +1,12 @@
+INICIO
+    leer ("calificacion1")
+    leer ("calificacion2")
+    leer ("calificacion3")
+    promedio = (calificacion1 + calificacion2 + calificacion3)/3
+   
+    si promedio => 8.5 
+        escribir ("premio")
+        sino
+        escribir ("reprobaste")
+    finsi
+FIN

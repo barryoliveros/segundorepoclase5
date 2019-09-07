@@ -1,0 +1,14 @@
+INICIO
+    leer nivelactual
+    si nivelactual >10
+        escribir acrobata
+        sino
+        escribir aprendiz
+    Finsi
+
+    si nivelactual =>20
+    escribir ninja
+    Finsi
+Fin
+
+        

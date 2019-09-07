@@ -1,0 +1,14 @@
+inicio
+    leer nombre
+    leer contraseña
+    si nombre = santiago 
+        si contraseña = 123
+        escribe ("correcto")
+
+        sino 
+        escribe ("incorecto")
+        fin si
+    sino 
+    escribir ("incorrecto")
+    finsi
+fin 

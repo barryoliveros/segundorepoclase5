@@ -1,0 +1,19 @@
+INICIO
+leer dado1
+leer dado2
+leer dado3
+    si 
+        dado1 = dado2
+        escribir ("gane")
+        sino
+        si
+            dado1 = dado3
+            escribi ("gane")
+            sino 
+            escribir ("perdi")
+        fin si
+
+    fin si
+
+
+FIN

@@ -1,0 +1,9 @@
+inicio
+    LEER tengoHambre (si o no)
+    tengoHambre = si
+    si tengoHambre ENTONCES
+        escribir EstoyTriste
+        sino
+        escribir estoyFeliz
+    FinSI
+FIN

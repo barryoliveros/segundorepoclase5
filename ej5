@@ -1,0 +1,23 @@
+INICIO
+    leer ("dia")
+    si 
+        dia = lunes or dia = miercoles
+        Escribe ("historia")
+        sino
+        si
+                dia = martes
+                Escribe ("natacion")
+                sino
+                si 
+                    dia = jueves 
+                    escribir ("esgrima")
+                    sino
+                        si dia = viernes or dia = sabado or dia = domingo
+                            escribir ("descanso")
+                        finsi
+                finsi
+        finsi
+    fi nsi
+
+
+FIN
